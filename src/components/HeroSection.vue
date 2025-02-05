@@ -1,7 +1,7 @@
 <script setup>
 import RatingSection from './RatingSection.vue';
 </script>
-
+ 
 <template>
  <section class="p-4 py-10" data-aos="fade-down" data-aos-duration="1000">
     <div class="w-full max-w-7xl mx-auto">
